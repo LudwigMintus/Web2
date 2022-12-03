@@ -1,0 +1,70 @@
+html{
+    background: #000 url(8UjB.gif) no-repeat center bottom;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    color: white;
+}
+
+.but{
+    margin: 25px;
+    text-align: center;
+    display:inline-block;
+}
+.hat{
+
+    width: 100%;
+    color: #d7d4cc;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    border: 0;
+}
+.hat h6{margin: 0;}
+div {
+    width: 100%;
+}
+
+.text{
+    color: #e8e8e8; /* Цвет текста*/
+    padding: 0px; /* Поля вокруг текста*/
+    border-radius: 14px;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+#return{
+    margin: 0;
+}
+
+button, a, select {
+    background: #f3f3f3; /* Цвет фона */
+    border: 1px solid #7a7b7e; /* Параметры рамки */
+    box-shadow: 0 0 4px 5px #fff; /* Параметры свечения */
+    font-size: 20px;
+    margin-left: 400px ;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    font-family: cursive
+}
+input{
+    background: #efefef; /* Цвет фона */
+    border: 0px solid #7a7b7e; /* Параметры рамки */
+    box-shadow: 0 0 4px 3px #fff;
+    font-size: 15px;
+}
+table{
+    color: #eae3e3;
+    border: 1px double #eae6de;
+    padding: 2px;
+    width: 100%;
+}
+th,td{
+    border: 1px solid #efeeed;
+}
